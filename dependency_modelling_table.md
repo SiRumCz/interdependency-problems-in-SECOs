@@ -5,6 +5,7 @@
 **CRAN**: the Comprehensive R Archive Network that stores identical, up-to-date, versions of code and documentation for R. https://cran.r-project.org/ <br>
 **dpkg**: a package manager for Debian-based systems. http://man7.org/linux/man-pages/man1/dpkg.1.html <br>
 **Cargo**: a package manager for Rust programming language. Rust is a modern system-level programming language. I expect to see Rust community carry out the best practices in dependency management given the fact it is a young and trending platform. https://crates.io/ <br>
+
 |                    | Maven         | NPM                  | CRAN        | dpkg              | Cargo      |
 | ------------------ | ------------- | -------------------- | ----------- | ----------------- | ---------- |
 | software ecosystem | Java / Apache | JavaScript / Node.js | R           | Debian / Linux OS | Rust       |
