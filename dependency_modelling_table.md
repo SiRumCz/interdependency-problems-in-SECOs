@@ -6,8 +6,10 @@
 **dpkg**: a package manager for Debian-based systems. As of July 30th 2019, Debian stable version contains 28,497 packages in main section. http://man7.org/linux/man-pages/man1/dpkg.1.html <br>
 **Cargo**: a package manager for Rust programming language. Rust is a modern system-level programming language. I expect to see Rust community carry out the best practices in dependency management given the fact it is a young and trending platform. https://crates.io/ <br>
 
-|                    | Maven               | NPM                  | CRAN                | dpkg                       | Cargo               |
-| ------------------ | ------------------- | -------------------- | ------------------- | -------------------------- | ------------------- |
-| software ecosystem | Java / Apache       | JavaScript / Node.js | R                   | Debian / Linux OS          | Rust                |
-| type of ecosystem  | packaging ecosystem | packaging ecosystem  | packaging ecosystem | distribution for Linux OSs | packaging ecosystem |
-| metadata           | pom.xml             | package.json         | DESCRIPTION         | DEBIAN/control             | Cargo.toml          |
+|                                       | Maven               | NPM                  | CRAN                | dpkg                       | Cargo               |
+| ------------------------------------- | ------------------- | -------------------- | ------------------- | -------------------------- | ------------------- |
+| software ecosystem                    | Java / Apache       | JavaScript / Node.js | R                   | Debian / Linux OS          | Rust                |
+| type of ecosystem                     | packaging ecosystem | packaging ecosystem  | packaging ecosystem | distribution for Linux OSs | packaging ecosystem |
+| metadata                              | pom.xml             | package.json         | DESCRIPTION         | DEBIAN/control             | Cargo.toml          |
+| general dependency field              | dependencies        | dependencies         | Depends             | Depends                    | dependencies        |
+| build/test/developer dependency field | test scope          | devDependencies      |                     | Build-Depends              | dev-dependencies    |
