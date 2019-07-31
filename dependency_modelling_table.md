@@ -16,8 +16,8 @@
 | type of ecosystem         | packaging ecosystem                          | packaging ecosystem                     | packaging ecosystem | distribution for Linux OSs                      | packaging ecosystem |
 | metadata                  | pom.xml                                      | package.json                            | DESCRIPTION         | DEBIAN/control                                  | Cargo.toml          |
 | general dependency        | dependencies, scope compile                  | dependencies                            | Depends             | Depends                                         | dependencies        |
-| test/developer dependency | scope test                                   | devDependencies                         |                     |                                                 | dev-dependencies    |
-| optional dependency       | optional true                                | optionalDependencies                    | Suggests            | Recommands                                      |                     |
+| test/developer dependency | ```<scope>test</scope>```                              | devDependencies                         |                     |                                                 | dev-dependencies    |
+| optional dependency       | ```<optional>true</optional>```                              | optionalDependencies                    | Suggests            | Recommands                                      |                     |
 | conflicting dependency    |                                              |                                         | Conflicts           | Conflicts                                       |                     |
 | breaking dependency       |                                              |                                         | Breaks              | Breaks                                          |                     |
 | dependency management     | dependencyManagement, scope import           | peerDependencies                        |                     |                                                 |                     |
