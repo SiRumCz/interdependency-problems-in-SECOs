@@ -1,14 +1,17 @@
-|                           | Maven                                        | NPM                                     | CRAN                | dpkg                                            | Cargo               |
-| ------------------------- | -------------------------------------------- | --------------------------------------- | ------------------- | ----------------------------------------------- | ------------------- |
-| software ecosystem        | Java / Apache                                | JavaScript / Node.js                    | R                   | Debian / Linux OS                               | Rust                |
-| type of ecosystem         | packaging ecosystem                          | packaging ecosystem                     | packaging ecosystem | distribution for Linux OSs                      | packaging ecosystem |
-| metadata                  | pom.xml                                      | package.json                            | DESCRIPTION         | DEBIAN/control                                  | Cargo.toml          |
-| general dependency        | dependencies, scope compile                  | dependencies                            | Depends             | Depends                                         | dependencies        |
-| test/developer dependency | scope test                                   | devDependencies                         |                     |                                                 | dev-dependencies    |
-| optional dependency       | optional true                                | optionalDependencies                    | Suggests            | Recommands                                      |                     |
-| conflicting dependency    |                                              |                                         | Conflicts           | Conflicts                                       |                     |
-| breaking dependency       |                                              |                                         | Breaks              | Breaks                                          |                     |
-| dependency management     | dependencyManagement, scope import           | peerDependencies                        |                     |                                                 |                     |
-| architecture restriction  | yes, plugin requred(Maven Enforcer Rule API) | yes, example: "cpu" : [ "x64", "ia32" ] |                     | yes, example: [linux-any], [!amd64], [any-i386] |                     |
-| versioning scheme         | semver                                       | semver                                  |                     | [epoch:]upstream_version[-debian_revision]      | semver              |
-| policy                    |                                              |                                         | rolling release     |                                                 |                     |
+\begin{table}
+    \begin{tabular}{llllll}
+    ~                         & Maven                                        & NPM                                     & CRAN                & dpkg                                            & Cargo               \\
+    software ecosystem        & Java / Apache                                & JavaScript / Node.js                    & R                   & Debian / Linux OS                               & Rust                \\
+    type of ecosystem         & packaging ecosystem                          & packaging ecosystem                     & packaging ecosystem & distribution for Linux OSs                      & packaging ecosystem \\
+    metadata                  & pom.xml                                      & package.json                            & DESCRIPTION         & DEBIAN/control                                  & Cargo.toml          \\
+    general dependency        & dependencies, scope compile                  & dependencies                            & Depends             & Depends                                         & dependencies        \\
+    test/developer dependency & scope test                                   & devDependencies                         & ~                   & ~                                               & dev-dependencies    \\
+    optional dependency       & optional true                                & optionalDependencies                    & Suggests            & Recommands                                      & ~                   \\
+    conflicting dependency    & ~                                            & ~                                       & Conflicts           & Conflicts                                       & ~                   \\
+    breaking dependency       & ~                                            & ~                                       & Breaks              & Breaks                                          & ~                   \\
+    dependency management     & dependencyManagement, scope import           & peerDependencies                        & ~                   & ~                                               & ~                   \\
+    architecture restriction  & yes, plugin requred(Maven Enforcer Rule API) & yes, example: "cpu" : [ "x64", "ia32" ] & ~                   & yes, example: [linux-any], [!amd64], [any-i386] & ~                   \\
+    versioning scheme         & semver                                       & semver                                  & ~                   & [epoch:]upstream\_version[-debian\_revision]    & semver              \\
+    policy                    & ~                                            & ~                                       & rolling release     & ~                                               & ~                   \\
+    \end{tabular}
+\end{table}
