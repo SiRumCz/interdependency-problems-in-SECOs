@@ -10,18 +10,95 @@
 
 ## Table
 
-|                                 | Maven                       | NPM                  | CRAN                | dpkg                       | Cargo               |
-| ------------------------------- | --------------------------- | -------------------- | ------------------- | -------------------------- | ------------------- |
-| software ecosystem              | Java / Apache               | JavaScript / Node.js | R                   | Debian / Linux OS          | Rust                |
-| type of ecosystem               | packaging ecosystem         | packaging ecosystem  | packaging ecosystem | distribution for Linux OSs | packaging ecosystem |
-| metadata                        | pom.xml                     | package.json         | DESCRIPTION         | DEBIAN/control             | Cargo.toml          |
-| general dependency              | dependencies, compile scope | dependencies         | Depends             | Depends                    | dependencies        |
-| build/test/developer dependency | test scope                  | devDependencies      | Build-Depends       | Build-Depends              | dev-dependencies    |
-| optional dependnecy             |                             | optionalDependnecies | Suggests            | Recommands                 |                     |
-| conflicting dependency          |                             |                      | Conflicts           | Conflicts                  |                     |
-| breaking dependency             |                             |                      | Breaks              | Breaks                     |                     |
-| versioning policy               | semantic versioning         | semantic versioning  |                     |                            | semantic versioning |
-| policy                          |                             |                      | rolling release     |                            |                     |
+ 
+ 
+Table size: 6x11 
+Table 
+Row 
+Column 
+File 
+Tools 
+Share
+Help 
+Maven
+NPM
+CRAN
+dpkg
+Cargo
+software ecosystem
+Java / Apache
+JavaScript / Node.js
+R
+Debian / Linux OS
+Rust
+type of ecosystem
+packaging ecosystem
+packaging ecosystem
+packaging ecosystem
+distribution for Linux OSs
+packaging ecosystem
+metadata
+pom.xml
+package.json
+DESCRIPTION
+DEBIAN/control
+Cargo.toml
+general dependency
+dependencies, compile scope
+dependencies
+Depends
+Depends
+dependencies
+build/test/developer dependency
+test scope
+devDependencies
+Build-Depends
+Build-Depends
+dev-dependencies
+optional dependency
+optionalDependen-
+cies
+Suggests
+Recommands
+conflicting dependency
+Conflicts
+Conflicts
+breaking dependency
+Breaks
+Breaks
+versioning policy
+semantic versioning
+semantic versioning
+semantic versioning
+policy
+rolling release
+Latex
+Balsamiq
+BBCode
+Comma separated values
+HTML
+JSON
+Markdown
+Mathematica
+Plain text
+reStructuredText
+SQL
+Wiki markup
+No output
+|                                 | Maven                       | NPM                     | CRAN                | dpkg                       | Cargo               |
+| ------------------------------- | --------------------------- | ----------------------- | ------------------- | -------------------------- | ------------------- |
+| software ecosystem              | Java / Apache               | JavaScript / Node.js    | R                   | Debian / Linux OS          | Rust                |
+| type of ecosystem               | packaging ecosystem         | packaging ecosystem     | packaging ecosystem | distribution for Linux OSs | packaging ecosystem |
+| metadata                        | pom.xml                     | package.json            | DESCRIPTION         | DEBIAN/control             | Cargo.toml          |
+| general dependency              | dependencies, compile scope | dependencies            | Depends             | Depends                    | dependencies        |
+| build/test/developer dependency | test scope                  | devDependencies         | Build-Depends       | Build-Depends              | dev-dependencies    |
+| optional dependency             |                             | optionalDependen-
+cies  | Suggests            | Recommands                 |                     |
+| conflicting dependency          |                             |                         | Conflicts           | Conflicts                  |                     |
+| breaking dependency             |                             |                         | Breaks              | Breaks                     |                     |
+| versioning policy               | semantic versioning         | semantic versioning     |                     |                            | semantic versioning |
+| policy                          |                             |                         | rolling release     |                            |                     |
+
 
 
 ## References
