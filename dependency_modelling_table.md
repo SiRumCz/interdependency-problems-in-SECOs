@@ -29,7 +29,7 @@
 | package removal policy           | not allowed to remove releases from repository                                                                                                            | only allow to unpublish versions published in the last 72 hours. NPM recommends owners to use deprecate                                                                                                                                                     | CRAN archives package                                                                                                                                    |                                                 | Cargo explicitly prevent packages from being removed, solution is cargo yank                                                                  |
 
 ## References
-Alexandre Decan, Tom Mens, Philippe. "An Empirical Comparision of Dependency Network Evolution in Seven Software Packaging Ecosystems", *Empirical Software Engineering*. Feb 2018<br>
+Alexandre Decan, Tom Mens, Philippe. "An Empirical Comparison of Dependency Network Evolution in Seven Software Packaging Ecosystems", *Empirical Software Engineering*. Feb 2018<br>
 https://stephencoakley.com/2019/04/24/how-rust-solved-dependency-hell<br>
 https://www.debian.org/doc/debian-policy/ch-relationships.html<br>
 https://docs.npmjs.com/files/package.json<br>
