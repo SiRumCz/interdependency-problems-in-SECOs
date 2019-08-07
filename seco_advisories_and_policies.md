@@ -1,4 +1,4 @@
-This topic studies the internal or external policies suggested migration opportunity advisories from official websites and communities for different packaging software ecosystems
+This study shows the internal or external policies suggested migration opportunity advisories from official websites and communities for different packaging software ecosystems
 
 ## Software Ecosystems
 ### Maven - Java
