@@ -1,4 +1,6 @@
-My sprint presentation slides for Software Ecosystem Health project as well as my works toward my thesis<br>
+### My sprint presentation slides for Software Ecosystem Health project as well as my works toward my thesis<br>
+
+My research studies involve software ecosystem dependency modellings, awareness mechanisms(advisory) for library version management in point of view of dependence.
 
 July 8th - Topic: Inter-Dependencies in Software Ecosystem:<br>
 https://docs.google.com/presentation/d/1hbgcgDD3aAGAMfEIy2YKGq-F9OgYhUR4q7Cb33ZoA0Q/edit?usp=sharing
