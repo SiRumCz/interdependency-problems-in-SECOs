@@ -26,6 +26,6 @@ RForge(https://www.rforge.net/)
 
 
 ## References
-[1] Christopher Bogart, Christian Kastner, James Herbsleb. When it breaks, it breaks: How ecosystem developers reason about the [2] stability of dependencies. *30th IEEE/ACM International Conference on Automated Software Engineering Workshop*. 2015<br>
-Christopher Bogart, Christian Kastner, James Herbsleb, Ferdian Thung. How to Break an API: Cost Negotiation and Community Values in Three Software Ecosystems. *24th ACM SIGSOFT International Symposium on Foundations of Software Engineering*. 2016<br>
+[1] Christopher Bogart, Christian Kastner, James Herbsleb. When it breaks, it breaks: How ecosystem developers reason about the stability of dependencies. *30th IEEE/ACM International Conference on Automated Software Engineering Workshop*. 2015<br>
+[2] Christopher Bogart, Christian Kastner, James Herbsleb, Ferdian Thung. How to Break an API: Cost Negotiation and Community Values in Three Software Ecosystems. *24th ACM SIGSOFT International Symposium on Foundations of Software Engineering*. 2016<br>
 [3] http://r-pkgs.had.co.nz/release.html#promotion<br>
