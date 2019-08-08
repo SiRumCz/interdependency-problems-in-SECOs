@@ -20,11 +20,10 @@ send to the r-packages **mailing-list**(https://stat.ethz.ch/mailman/listinfo/r-
 **R-bloggers**(https://www.r-bloggers.com)<br>
 ![R-bloggers new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/Screenshot%20from%202019-08-07%2012-13-25.png)
 
-GitHub
-
-R-Forge(https://r-forge.r-project.org/)
-
-RForge(https://www.rforge.net/)
+Open source, collaborative, distributed software developement platforms:
+- Bioconductor(https://www.bioconductor.org/)
+- R-Forge(https://r-forge.r-project.org/)
+- RForge(https://www.rforge.net/)
 
 ### dpkg - Debian GNU/Linux
 
