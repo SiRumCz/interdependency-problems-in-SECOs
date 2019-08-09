@@ -4,7 +4,12 @@ This study shows the internal or external policies suggested migration opportuni
 
 ### Maven - Java
 **Versions Maven Plugin** [4]
+A plugin that allows user to check updates for both maven packages and plugins
 ![Maven Verssions new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/versions_maven_plugin_scrrenshot.png)
+
+**artifact listener** [5]
+create an account on the website and choose the artifact you would like to follow by either manually searching or uploading full pom.xml file.
+![Maven Verssions new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/maven_artifact_listener_screenshot.png)
 
 
 ### NPM - JavaScript/Node.js
@@ -39,3 +44,4 @@ Open source, collaborative, distributed software developement platforms:
 [2] Christopher Bogart, Christian Kastner, James Herbsleb, Ferdian Thung. How to Break an API: Cost Negotiation and Community Values in Three Software Ecosystems. *24th ACM SIGSOFT International Symposium on Foundations of Software Engineering*. 2016<br>
 [3] http://r-pkgs.had.co.nz/release.html#promotion
 [4] http://www.mojohaus.org/versions-maven-plugin/
+[5] https://www.artifact-listener.org/
