@@ -3,12 +3,12 @@ This study shows the internal or external policies suggested migration opportuni
 ## Software Ecosystems
 
 ### Maven - Java
-**Versions Maven Plugin** [4]
-A plugin that allows user to check updates for both maven packages and plugins
+**Versions Maven Plugin** [4]<br>
+A plugin that allows user to check updates for both maven packages and plugins<br>
 ![Maven Verssions new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/versions_maven_plugin_scrrenshot.png)
 
-**artifact listener** [5]
-create an account on the website and choose the artifact you would like to follow by either manually searching or uploading full pom.xml file.
+**artifact listener** [5]<br>
+create an account on the website and choose the artifact you would like to follow by either manually searching or uploading full pom.xml file.<br>
 ![Maven Verssions new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/maven_artifact_listener_screenshot.png)
 
 
