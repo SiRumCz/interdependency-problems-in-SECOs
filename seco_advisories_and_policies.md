@@ -42,6 +42,7 @@ Open source, collaborative, distributed software developement platforms:
 ## References
 [1] Christopher Bogart, Christian Kastner, James Herbsleb. When it breaks, it breaks: How ecosystem developers reason about the stability of dependencies. *30th IEEE/ACM International Conference on Automated Software Engineering Workshop*. 2015<br>
 [2] Christopher Bogart, Christian Kastner, James Herbsleb, Ferdian Thung. How to Break an API: Cost Negotiation and Community Values in Three Software Ecosystems. *24th ACM SIGSOFT International Symposium on Foundations of Software Engineering*. 2016<br>
-[3] http://r-pkgs.had.co.nz/release.html#promotion
-[4] http://www.mojohaus.org/versions-maven-plugin/
-[5] https://www.artifact-listener.org/
+[3] http://r-pkgs.had.co.nz/release.html#promotion<br>
+[4] http://www.mojohaus.org/versions-maven-plugin/<br>
+[5] https://www.artifact-listener.org/<br>
+[6] https://github.blog/2017-10-11-a-more-connected-universe/<br>
