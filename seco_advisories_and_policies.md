@@ -37,7 +37,18 @@ Open source, collaborative, distributed software developement platforms:
 ### dpkg - Debian GNU/Linux
 
 ### Cargo - Rust
+Officially the only mailing list **rust-dev**(https://mail.mozilla.org/listinfo/rust-dev) was shut down few years ago due to low traffic[8]<br>
+Maintainers use **Rust user community**(https://users.rust-lang.org/) to make new release announcement<br>
+![users_rust-lang new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/rust_lang_announcement_screenshot.png)
 
+Developers also use **Reddit**(https://www.reddit.com/r/rust/) as active community to communitcate new release changes<br>
+![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/reddit_rust_screenshot.png)
+
+I have also seen uses of new release announcement on Twitter with different hash tags<br>
+- #rust-lang
+![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_rust_lang_screenshot.png)
+- #rust
+![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_rust_lang_screenshot_2.png)
 
 ## References
 [1] Christopher Bogart, Christian Kastner, James Herbsleb. When it breaks, it breaks: How ecosystem developers reason about the stability of dependencies. *30th IEEE/ACM International Conference on Automated Software Engineering Workshop*. 2015<br>
@@ -46,3 +57,5 @@ Open source, collaborative, distributed software developement platforms:
 [4] http://www.mojohaus.org/versions-maven-plugin/<br>
 [5] https://www.artifact-listener.org/<br>
 [6] https://github.blog/2017-10-11-a-more-connected-universe/<br>
+[7] https://users.rust-lang.org/c/announcements
+[8] https://mail.mozilla.org/pipermail/rust-dev/2015-January/011558.html
