@@ -45,9 +45,9 @@ Developers also use **Reddit**(https://www.reddit.com/r/rust/) as active communi
 ![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/reddit_rust_screenshot.png)
 
 I have also seen uses of new release announcement on Twitter with different hash tags<br>
-- #rust-lang
+- #rust-lang<br>
 ![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_rust_lang_screenshot.png)
-- #rust
+- #rust<br>
 ![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_rust_lang_screenshot_2.png)
 
 ## References
