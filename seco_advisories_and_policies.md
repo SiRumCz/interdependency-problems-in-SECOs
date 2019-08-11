@@ -14,6 +14,7 @@ create an account on the website and choose the artifact you would like to follo
 
 ### NPM - JavaScript/Node.js
 
+
 ### CRAN - R
 NEWS.md : release announcement<br>
 
@@ -57,5 +58,5 @@ I have also seen uses of new release announcement on Twitter with different hash
 [4] http://www.mojohaus.org/versions-maven-plugin/<br>
 [5] https://www.artifact-listener.org/<br>
 [6] https://github.blog/2017-10-11-a-more-connected-universe/<br>
-[7] https://users.rust-lang.org/c/announcements
-[8] https://mail.mozilla.org/pipermail/rust-dev/2015-January/011558.html
+[7] https://users.rust-lang.org/c/announcements<br>
+[8] https://mail.mozilla.org/pipermail/rust-dev/2015-January/011558.html<br>
