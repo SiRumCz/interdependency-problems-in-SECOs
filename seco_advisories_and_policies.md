@@ -11,6 +11,16 @@ A plugin that allows user to check updates for both maven packages and plugins<b
 create an account on the website and choose the artifact you would like to follow by either manually searching or uploading full pom.xml file.<br>
 ![Maven Verssions new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/maven_artifact_listener_screenshot.png)
 
+**mailing lists** [10]<br>
+Developers has been actively use mailing lists to announce new Maven plugins releases through many subscriptions:<br>
+Users: https://lists.apache.org/list.html?users@maven.apache.org<br>
+Developers: https://lists.apache.org/list.html?dev@maven.apache.org<br>
+Announcements: https://lists.apache.org/list.html?announce@maven.apache.org<br>
+
+**Issue tracker - JIRA** [11]<br>
+
+
+**IRC (Internet Relay Chat)** <br>
 
 ### NPM - JavaScript/Node.js
 
@@ -65,3 +75,5 @@ I have also seen uses of new release announcement on Twitter with different hash
 [7] https://users.rust-lang.org/c/announcements<br>
 [8] https://mail.mozilla.org/pipermail/rust-dev/2015-January/011558.html<br>
 [9] Alexandre Decan, Tom Mens, Maelick Claes, Philippe Grosjean. When GitHub meets CRAN: An Analysis of Inter-Repository Package Dependency Problems. *IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering*. 2016<br>
+[10] https://maven.apache.org/mailing-lists.html<br>
+[11] https://maven.apache.org/issue-management.html<br>
