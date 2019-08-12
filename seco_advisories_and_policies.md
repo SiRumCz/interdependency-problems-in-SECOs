@@ -59,7 +59,7 @@ Maintainers use **Rust user community**(https://users.rust-lang.org/) to make ne
 Developers also use **Reddit**(https://www.reddit.com/r/rust/) as active community to communitcate new release changes<br>
 ![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/reddit_rust_screenshot.png)
 
-I have also seen uses of new release announcement on Twitter with different hash tags<br>
+I have also seen uses of new release announcement on **Twitter** with different hash tags<br>
 - #rust-lang<br>
 ![reddit_r/rust new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_rust_lang_screenshot.png)
 - #rust<br>
