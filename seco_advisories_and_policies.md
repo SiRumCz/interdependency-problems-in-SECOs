@@ -64,4 +64,4 @@ I have also seen uses of new release announcement on Twitter with different hash
 [6] https://github.blog/2017-10-11-a-more-connected-universe/<br>
 [7] https://users.rust-lang.org/c/announcements<br>
 [8] https://mail.mozilla.org/pipermail/rust-dev/2015-January/011558.html<br>
-[9] Alexandre Decan, Tom Mens, Maelick Claes, Philippe Grosjean. When GitHub meets CRAN: An Analysis of Inter-Repository Package Dependency Problems. IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering. 2016<br>
+[9] Alexandre Decan, Tom Mens, Maelick Claes, Philippe Grosjean. When GitHub meets CRAN: An Analysis of Inter-Repository Package Dependency Problems. *IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering*. 2016<br>
