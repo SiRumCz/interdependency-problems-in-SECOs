@@ -38,6 +38,8 @@ Open source, collaborative, distributed software developement platforms:
 Based on Alexandre Decan's studies[9] on the influence of using GitHub on CRAN, it shows that many R packages are hosted on GitHub and there is still important acceleration of the number of new packages appearing each month. One of the reason is that some packages depend on external packages which opposed the CRAN policy, and therefore cannot be accepted by CRAN.
 
 ### dpkg - Debian GNU/Linux
+**Twitter** was used by debian developers to make new release announcements<br>
+![Twitter debian package new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_debian_screenshot.png)
 
 ### Cargo - Rust
 Officially the only mailing list **rust-dev**(https://mail.mozilla.org/listinfo/rust-dev) was shut down few years ago due to low traffic[8]<br>
