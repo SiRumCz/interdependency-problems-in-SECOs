@@ -6,7 +6,7 @@ This topic studies the feature and mechanism for current trending dependency(lib
 
 ### Greenkeeper (https://greenkeeper.io/)
 only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br>
-
+source code: https://github.com/greenkeeperio/greenkeeper<br>
 #### Features
 - **Automated, real-time dependency updates**<br>
   - Only on *JavaScript* projects using either NPM or Yarn<br>
@@ -22,7 +22,7 @@ only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br
 #### Mechanisms
 
 ### Snyk (https://snyk.io)
-
+source code: https://github.com/snyk/snyk<br>
 #### Features
 - **Find vulnerabilities**
   - Map the full application dependency tree to fild the vulnerabilities(tested against Snyk's comprehensive vulnerability database) in all open source dependencies
