@@ -18,6 +18,8 @@ only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br
 - **Built-in lockfile support: npm and yarn**<br>
 - **Seamless integration**<br>
   - The porcess will not interupt the current workflow<br>
+  
+### Snyk (https://snyk.io)
 
 #### Mechanisms
 
