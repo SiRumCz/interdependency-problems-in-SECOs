@@ -8,15 +8,15 @@ This topic studies the feature and mechanism for current trending dependency(lib
 only works for NPM packages hosted on GitHub.<br>
 
 #### Features
-**Automated, real-time dependency updates**
-only on *JavaScript* projects
-**Full support for GitHub private packages**
-**Self-hosted Greenkeeper Enterprise option**
+**Automated, real-time dependency updates**<br>
+only on *JavaScript* projects<br>
+**Full support for GitHub private packages**<br>
+**Self-hosted Greenkeeper Enterprise option**<br>
 Commercial version for GitHub Enterprise users<br>
-**CI test suite integrated**
+**CI test suite integrated**<br>
 Run CI on every dependency update<br>
-**Built-in lockfile support: npm and yarn**
-**Seamless integration**
+**Built-in lockfile support: npm and yarn**<br>
+**Seamless integration**<br>
 The porcess will not interupt the current workflow<br>
 
 
