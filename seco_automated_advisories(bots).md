@@ -9,15 +9,15 @@ only works for NPM packages hosted on GitHub.<br>
 
 #### Features
 - **Automated, real-time dependency updates**<br>
-⋅⋅- only on *JavaScript* projects<br>
+  - only on *JavaScript* projects<br>
 - **Full support for GitHub private packages**<br>
 - **Self-hosted Greenkeeper Enterprise option**<br>
-⋅⋅- Commercial version for GitHub Enterprise users<br>
+  - Commercial version for GitHub Enterprise users<br>
 - **CI test suite integrated**<br>
-⋅⋅- Run CI on every dependency update<br>
+  - Run CI on every dependency update<br>
 - **Built-in lockfile support: npm and yarn**<br>
 - **Seamless integration**<br>
-⋅⋅- The porcess will not interupt the current workflow<br>
+  - The porcess will not interupt the current workflow<br>
 
 #### Mechanisms
 
