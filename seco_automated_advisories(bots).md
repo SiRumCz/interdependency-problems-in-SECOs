@@ -5,7 +5,7 @@ This topic studies the feature and mechanism for current trending dependency(lib
 ### Dependabot (https://dependabot.com)
 
 ### Greenkeeper (https://greenkeeper.io/)
-only works for NPM packages hosted on GitHub.<br>
+only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br>
 
 #### Features
 - **Automated, real-time dependency updates**<br>
