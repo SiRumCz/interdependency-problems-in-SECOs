@@ -51,6 +51,12 @@ Based on Alexandre Decan's studies[9] on the influence of using GitHub on CRAN, 
 **Twitter** was used by debian developers to make new release announcements<br>
 ![Twitter debian package new release announcement example](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/seco_new_release_screenshots/twitter_debian_screenshot.png)
 
+**mailing list**
+
+**blogs**
+
+**IRC channels**
+
 ### Cargo - Rust
 Officially the only mailing list **rust-dev**(https://mail.mozilla.org/listinfo/rust-dev) was shut down few years ago due to low traffic[8]<br>
 Maintainers use **Rust user community**(https://users.rust-lang.org/) to make new release announcement<br>
