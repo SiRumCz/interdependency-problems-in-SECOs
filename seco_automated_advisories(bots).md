@@ -20,6 +20,7 @@ doc: https://github.com/dependabot/dependabot-core#architecture<br>
 **dependabot-{package-manager}**
 1. fetch dependency files and extract the list of dependencies for a project
 2. check for dependency updates
+3. create pull request on dependency file with new versions and restrictions
 
 ### Greenkeeper (https://greenkeeper.io/)
 only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br>
