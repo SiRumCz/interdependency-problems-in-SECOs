@@ -3,6 +3,17 @@ This topic studies the feature and mechanism for current trending dependency(lib
 ## Automated Pull Requests
 
 ### Dependabot (https://dependabot.com)
+source code: https://github.com/dependabot/dependabot-core<br>
+#### Features
+- **Pull requests**<br> 
+  - include release notes, changelogs, commit links and vulnerability details<br>
+- **Bot behavior is configurable**<br>
+  - how many dependencies to be updated<br>
+  - how frequent to have pull requests<br>
+- **Automatically handle security advisories**<br> 
+  - for Ruby, Python, JavaScript, Java, .NET, PHP, Elixir and Rust<br>
+- **Compatibility score for each update**<br> 
+  - aggregate everyone's test results<br>
 
 ### Greenkeeper (https://greenkeeper.io/)
 only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br>
