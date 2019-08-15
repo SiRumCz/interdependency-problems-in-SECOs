@@ -14,6 +14,12 @@ source code: https://github.com/dependabot/dependabot-core<br>
   - for Ruby, Python, JavaScript, Java, .NET, PHP, Elixir and Rust<br>
 - **Compatibility score for each update**<br> 
   - aggregate everyone's test results<br>
+- **Support for GitHub Enterprise, GitLab and Azure DevOps**
+#### Mechanisms
+doc: https://github.com/dependabot/dependabot-core#architecture<br>
+**dependabot-{package-manager}**
+1. fetch dependency files and extract the list of dependencies for a project
+2. check for dependency updates
 
 ### Greenkeeper (https://greenkeeper.io/)
 only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br>
