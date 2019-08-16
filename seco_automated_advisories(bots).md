@@ -5,15 +5,15 @@ This topic studies the feature and mechanism for current trending dependency(lib
 ### Dependabot (https://dependabot.com)
 source code: https://github.com/dependabot/dependabot-core<br>
 #### Features
-- **Pull requests**<br> 
-  - include release notes, changelogs, commit links and vulnerability details<br>
-- **Bot behavior is configurable**<br>
-  - how many dependencies to be updated<br>
-  - how frequent to have pull requests<br>
-- **Automatically handle security advisories**<br> 
-  - for Ruby, Python, JavaScript, Java, .NET, PHP, Elixir and Rust<br>
-- **Compatibility score for each update**<br> 
-  - aggregate everyone's test results<br>
+- **Pull requests**
+  - include release notes, changelogs, commit links and vulnerability details
+- **Bot behavior is configurable**
+  - how many dependencies to be updated
+  - how frequent to have pull requests
+- **Automatically handle security advisories**
+  - for Ruby, Python, JavaScript, Java, .NET, PHP, Elixir and Rust
+- **Compatibility score for each update**
+  - aggregate everyone's test results
 - **Support for GitHub Enterprise, GitLab and Azure DevOps**
 #### Mechanisms
 doc: https://github.com/dependabot/dependabot-core#architecture<br>
@@ -37,6 +37,7 @@ source code: https://github.com/greenkeeperio/greenkeeper<br>
 - **CI test suite integrated**
   - Run CI on every dependency update
 - **Built-in lockfile support**
+  - package-lock.json(NPM), yarn.lock(Yarn)
 - **Seamless integration**
   - The porcess will not interupt the current workflow
 
