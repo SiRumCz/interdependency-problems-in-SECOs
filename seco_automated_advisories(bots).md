@@ -46,15 +46,25 @@ source code: https://github.com/greenkeeperio/greenkeeper<br>
 ### Snyk (https://snyk.io)
 source code: https://github.com/snyk/snyk<br>
 #### Features
-- **Find vulnerabilities**
+- **Find vulnerabilities** `snyk test`
   - Map the full application dependency tree to fild the vulnerabilities(tested against Snyk's comprehensive vulnerability database) in all open source dependencies
-- **Fix vulnerabilities**
+- **Fix vulnerabilities** `snyk wizard` and `snyk protect`
   - Automatically generate fix pull request that helps for 1) upgrade, 2) precision patch
 - **Monitor throughout the Software Development Life Cycle**
   - Supports platform: GitHub, BitBucket, and GitLab.
   - CI/CD: Jenkins, Teamcity, Travis and more
   - PaaS and serverless: Heroku, Cloud Foundry, AWS Lambda and more
-- **Supporting languages**
+- **Prevent**
+  - secure development: integrated in IDE(?)
+  - secure source code: pull requests to fail checks on new vulnerable dependency addition
+  - secure build: fail CI builds, **policy based**
+- **Alert** `snyk monitor`
+  - newly disclosed vulnerabilities
+  - email and Slack notifications
+  - automatic pull request
+  - comprehensive information and remediation guidance
+
+Note: **Supporting languages**
   - Ruby, Java, Scala, Python, Golang, .NET, PHP, Node.js(NPM&Yarn)
 
 ## Passive Badges with Dashboard
