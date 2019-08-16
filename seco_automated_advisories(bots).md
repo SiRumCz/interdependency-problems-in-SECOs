@@ -22,20 +22,23 @@ doc: https://github.com/dependabot/dependabot-core#architecture<br>
 2. check for dependency updates
 3. create pull request on dependency file with new versions and restrictions
 
+**security advisory**
+Ruby: Rubysec (https://rubysec.com) <br>
+
 ### Greenkeeper (https://greenkeeper.io/)
 only works for JavaScript packages hosted on GitHub using either NPM or Yarn.<br>
 source code: https://github.com/greenkeeperio/greenkeeper<br>
 #### Features
-- **Automated, real-time dependency updates**<br>
-  - Only on *JavaScript* projects using either NPM or Yarn<br>
-- **Full support for GitHub private packages**<br>
-- **Self-hosted Greenkeeper Enterprise option**<br>
-  - Commercial version for GitHub Enterprise users<br>
-- **CI test suite integrated**<br>
-  - Run CI on every dependency update<br>
-- **Built-in lockfile support**<br>
-- **Seamless integration**<br>
-  - The porcess will not interupt the current workflow<br>
+- **Automated, real-time dependency updates**
+  - Only on *JavaScript* projects using either NPM or Yarn
+- **Full support for GitHub private packages**
+- **Self-hosted Greenkeeper Enterprise option**
+  - Commercial version for GitHub Enterprise users
+- **CI test suite integrated**
+  - Run CI on every dependency update
+- **Built-in lockfile support**
+- **Seamless integration**
+  - The porcess will not interupt the current workflow
 
 #### Mechanisms
 
@@ -50,6 +53,8 @@ source code: https://github.com/snyk/snyk<br>
   - Supports platform: GitHub, BitBucket, and GitLab.
   - CI/CD: Jenkins, Teamcity, Travis and more
   - PaaS and serverless: Heroku, Cloud Foundry, AWS Lambda and more
+- **Supporting languages**
+  - Ruby, Java, Scala, Python, Golang, .NET, PHP, Node.js(NPM&Yarn)
 
 ## Passive Badges with Dashboard
 
