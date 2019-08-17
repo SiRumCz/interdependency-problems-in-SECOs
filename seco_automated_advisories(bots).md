@@ -42,6 +42,7 @@ source code: https://github.com/greenkeeperio/greenkeeper<br>
   - The porcess will not interupt the current workflow
 
 #### Mechanisms
+Monitoring dependency list of NPM projects hosted on GitHub. When any module from the list get updated in NPM registry, Greenkeeper will create a new branch with that update for the project. If projects have CI integrated, it will also check the test result to determine the needs for opening new issue regarding this update.
 
 ### Snyk (https://snyk.io)
 source code: https://github.com/snyk/snyk<br>
