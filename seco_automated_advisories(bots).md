@@ -68,6 +68,24 @@ source code: https://github.com/snyk/snyk<br>
 Note: **Supporting languages**
   - Ruby, Java, Scala, Python, Golang, .NET, PHP, Node.js(NPM&Yarn)
 
+### MyGet (https://www.myget.org/)
+organization github: https://github.com/MyGet, This is a commercial product. No available source code.<br>
+#### Features
+- **Manage softwares**
+  - from NuGet, OneGet, Chcolatey, TeamCity, npmjs, Maven Centrral, Bower, Packagist, PyPI, proxied into one URL provided by MyGet
+- **Package mirroring**
+  - mirror package onto MyGet feed. Upstream package source can be proxied and filtered.
+- **Continous Integration**
+  - Assembla, GitHub, Visual Studio Team Services, or BitBucket code repository
+  - MyGet build servers(or use developers own build server, such as VSTS, TeamCity, Jenkins) compile code, discover and run tests, and creat package artifacts
+  - MyGet publishes the build as package to developers' feed if the build test is error-free
+- **Continous Security**
+  - quickly see the overview of potential vulnerabilities in all dependencies
+  - percentage of packages with potential vulnerabilities VS percentage of packages without known vulnerabilities
+- **License governance**
+  - inspect and manage licenses used across feeds
+  - for example: ensure no GPL software is being used in commercial apps
+  
 ## Passive Badges with Dashboard
 
 ### David-DM (https://david-dm.org/)
