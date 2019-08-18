@@ -86,6 +86,17 @@ organization github: https://github.com/MyGet, This is a commercial product. No 
   - inspect and manage licenses used across feeds
   - for example: ensure no GPL software is being used in commercial apps
   
+### Renovate (https://renovatebot.com/)
+Universal dependency update automation tool that fits into your workflows.<br>
+#### Features
+- **Real time library version monitoring**
+- **Supported languages**
+  - Dockerfile, Go, Gradle, HCL, Java, JavaScript, Maven POM, PHP, Python, Ruby
+- **Detailed updates**
+  - changelogs and commit hostries with each update
+- **Run existing test suite**
+- **Customizable upgrade schedule**
+
 ## Passive Badges with Dashboard
 
 ### David-DM (https://david-dm.org/)
