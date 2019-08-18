@@ -1,4 +1,4 @@
-This topic studies the feature and mechanism for current trending dependency(library) management bots.
+This topic studies the feature and mechanism for current trending dependency(library) management bots. The bots I select for this topic was top bots from github marketplace with `Dependency management` Type filtered. The list is accessible from https://github.com/marketplace/category/dependency-management
 
 ## Automated Pull Requests
 
