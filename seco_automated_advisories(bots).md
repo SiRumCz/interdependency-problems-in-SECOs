@@ -110,3 +110,16 @@ Universal dependency update automation tool that fits into your workflows.<br>
 ### semantic-release (https://semantic-release.gitbook.io/semantic-release/)
 
 ### Codecov (https://codecov.io/gh)
+
+## COmparison Table
+
+|                                     | Dependabot                    | Greenkeeper | Snyk             | MyGet      | Renovate         | Depfu    | Sonatype DepShield |
+| ----------------------------------- | ----------------------------- | ----------- | ---------------- | ---------- | ---------------- | -------- | ------------------ |
+| Support studied software ecossytems | NPM, Rust(Cargo), Java(Maven) | NPM only    | Java(Maven), NPM | Maven, NPM | Java(Maven), NPM | NPM only | All                |
+| Free for open source projects       | yes                           | yes         | yes              | no         | yes              | yes      | yes                |
+| vulnerability database              | yes                           | no          | yes              | yes        | no               | yes      | yes                |
+| lockfile support                    | yes                           | yes         | yes              | yes        | no               | yes      | no                 |
+| automated pull request              | yes                           | yes         | yes              | yes        | yes              | yes      | no                 |
+| automated issue                     | no                            | no          | no               | no         | no               | no       | yes                |
+| CI built-in                         | no                            | no          | yes              | yes        | no               | no       | no                 |
+| License issue                       | no                            | no          | yes              | yes        | no               | no       | no                 |
