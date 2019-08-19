@@ -15,6 +15,8 @@ source code: https://github.com/dependabot/dependabot-core<br>
 - **Compatibility score for each update**
   - aggregate everyone's test results
 - **Support for GitHub Enterprise, GitLab and Azure DevOps**
+- **Transitive dependency for JavaScript**
+  - https://dependabot.com/blog/securing-javascript-transitive-dependencies/
 #### Mechanisms
 doc: https://github.com/dependabot/dependabot-core#architecture<br>
 **dependabot-{package-manager}**
@@ -96,6 +98,10 @@ Universal dependency update automation tool that fits into your workflows.<br>
   - changelogs and commit hostries with each update
 - **Run existing test suite**
 - **Customizable upgrade schedule**
+
+### Depfu (https://depfu.com)
+
+### Sonatype DepShield (https://depshield.github.io/)
 
 ## Passive Badges with Dashboard
 
