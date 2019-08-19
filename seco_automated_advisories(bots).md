@@ -111,7 +111,8 @@ Universal dependency update automation tool that fits into your workflows.<br>
 
 ### Codecov (https://codecov.io/gh)
 
-## COmparison Table
+## Comparison Table
+This table shows how GitHub Dependency Mamagement Bots differ in features
 
 |                                     | Dependabot                    | Greenkeeper | Snyk             | MyGet      | Renovate         | Depfu    | Sonatype DepShield |
 | ----------------------------------- | ----------------------------- | ----------- | ---------------- | ---------- | ---------------- | -------- | ------------------ |
