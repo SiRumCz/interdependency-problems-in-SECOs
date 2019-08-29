@@ -8,7 +8,7 @@ This section will be talking about what are people's opinions on new GitHub Pack
 ### 
 
 ### Concern of GitHub being the central of open source community
-```
-TypesLogicsCats 3 months ago
-Maybe I am in the minority here, but I am concerned that the free or open source community (whatever you want to call it) is becoming too centralized around GitHub. I'm not a fan of the majority of FOSS software projects depending on one repository host, especially one that is ironically proprietary. I would prefer movements towards decentralization (federation a la ActivityPub and the growth of libre competitors to GitHub), and widespread adoption of GitHub's package registry would be in the opposite direction of what I hope for.
-```
+
+>TypesLogicsCats 3 months ago<br>
+>Maybe I am in the minority here, but I am concerned that the free or open source community (whatever you want to call it) is becoming too centralized around GitHub. I'm not a fan of the majority of FOSS software projects depending on one repository host, especially one that is ironically proprietary. I would prefer movements towards decentralization (federation a la ActivityPub and the growth of libre competitors to GitHub), and widespread adoption of GitHub's package registry would be in the opposite direction of what I hope for.
+
