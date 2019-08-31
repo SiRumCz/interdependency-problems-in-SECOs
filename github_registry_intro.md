@@ -5,7 +5,9 @@ The goal of this Registry that GitHub claimed is to bring developers(dependences
 
 This section will be talking about what are people's opinions on new GitHub Package Registry.
 
-### 
+### Another competitor instead of having one universal standard
+
+![GitHub Registry Standards](https://github.com/SiRumCz/interdependency-problems-in-SECOs/blob/master/src/misc/standards.png)
 
 ### Concern of GitHub being the central of open source community
 
