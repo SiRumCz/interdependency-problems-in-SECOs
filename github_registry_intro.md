@@ -17,5 +17,5 @@ This section will be talking about what are people's opinions on new GitHub Pack
 >Maybe I am in the minority here, but I am concerned that the free or open source community (whatever you want to call it) is becoming too centralized around GitHub. I'm not a fan of the majority of FOSS software projects depending on one repository host, especially one that is ironically proprietary. I would prefer movements towards decentralization (federation a la ActivityPub and the growth of libre competitors to GitHub), and widespread adoption of GitHub's package registry would be in the opposite direction of what I hope for.
 
 ## References
-[1] https://thenextweb.com/dd/2019/05/13/heres-why-im-genuinely-excited-about-githubs-new-package-registry/
-[2] https://www.reddit.com/r/programming/comments/bn3hhn/introducing_github_package_registry/
+[1] https://thenextweb.com/dd/2019/05/13/heres-why-im-genuinely-excited-about-githubs-new-package-registry/ <br>
+[2] https://www.reddit.com/r/programming/comments/bn3hhn/introducing_github_package_registry/ <br>
