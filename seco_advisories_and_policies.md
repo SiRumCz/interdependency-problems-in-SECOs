@@ -24,6 +24,7 @@ Announcements: https://lists.apache.org/list.html?announce@maven.apache.org<br>
 
 ### NPM - JavaScript/Node.js
 
+NPM documents vulnerability threats in their public vulnerability database such as NPM security advisories(https://www.npmjs.com/advisories) or Snyk vulnerability DB.<br>
 
 ### CRAN - R
 NEWS.md : release announcement<br>
