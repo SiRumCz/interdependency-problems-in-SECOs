@@ -1,4 +1,4 @@
-My research studies involve software ecosystem dependency modellings, awareness mechanisms(advisory) for library version management in point of view of dependence.
+My research studies involve software ecosystem dependency modellings, awareness mechanisms(advisory) for library version management from point of view of dependence.
 
 ### My presentation for Software Ecosystem Health project as well as my works toward my thesis<br>
 
