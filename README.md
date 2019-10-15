@@ -19,3 +19,6 @@ https://docs.google.com/presentation/d/1jRUcF6d-Zz1OfrIq3CDuSAOkVPT77OK1wRbqj_zp
 
 October 1st - Topic: Mining GitHub Activities using GHTorrent and PostgreSQL, R2C Platform<br>
 https://docs.google.com/presentation/d/1SfQAneTV_2ERoCaa7j6AHYdhi8AeV3zODlJywlkni4Y/edit?usp=sharing
+
+October 15th - Topic: Visualizing SECO Health with GitHub Activities<br>
+https://docs.google.com/presentation/d/13YXb3rg0J8wU3qleXiL9oFNou5A7lRWDeRbvXqoJa1o/edit?usp=sharing
