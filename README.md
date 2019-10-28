@@ -22,3 +22,6 @@ https://docs.google.com/presentation/d/1SfQAneTV_2ERoCaa7j6AHYdhi8AeV3zODlJywlkn
 
 October 15th - Topic: Visualizing SECO Health with GitHub Activities<br>
 https://docs.google.com/presentation/d/13YXb3rg0J8wU3qleXiL9oFNou5A7lRWDeRbvXqoJa1o/edit?usp=sharing
+
+October 28th - progress report<br>
+https://docs.google.com/presentation/d/1Zj_TOoLkPh247hZAIVNF1I-NbTtkNoSgYoO4xwBsczY/edit?usp=sharing
