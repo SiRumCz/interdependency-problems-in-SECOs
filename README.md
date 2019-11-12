@@ -25,3 +25,6 @@ https://docs.google.com/presentation/d/13YXb3rg0J8wU3qleXiL9oFNou5A7lRWDeRbvXqoJ
 
 October 28th - progress report<br>
 https://docs.google.com/presentation/d/1Zj_TOoLkPh247hZAIVNF1I-NbTtkNoSgYoO4xwBsczY/edit?usp=sharing
+
+November 12th - Topic: Dependency Networks Studies<br>
+https://docs.google.com/presentation/d/1E0ri3LIVnQA9RFwET1iKB9yuam64x4F4uWV5qvvOXTg/edit?usp=sharing
